@@ -1,5 +1,10 @@
 # FreeShelf
 
+**Live directory:** https://akash991833.github.io/freeshelf/
+
+![FreeShelf home](screenshots/home-desktop.png)
+
+
 Created by Akash Vishwakarma. A mobile-first directory of free learning and developer resources with clear limits and official source links.
 
 ## Features
